@@ -1,0 +1,23 @@
+{
+  "name": "json-editor-translation",
+  "version": "1.0.0",
+  "description": "JSON Editor Translation",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstelwach/json-editor-translation.git"
+  },
+  "keywords": [],
+  "author": "Michał Stelwach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstelwach/json-editor-translation/issues"
+  },
+  "homepage": "https://github.com/mstelwach/json-editor-translation",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

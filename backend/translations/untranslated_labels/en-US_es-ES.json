@@ -1,0 +1,1702 @@
+{
+  "orientation_type_vertical": {
+    "en-US": "vertical",
+    "es-ES": ""
+  },
+  "orientation_type_horizontal": {
+    "en-US": "horizontal",
+    "es-ES": ""
+  },
+  "delete_semi_responsive_layout_error_not_enough_layouts": {
+    "en-US": "There are not enough layouts, can't perform the delete action.",
+    "es-ES": ""
+  },
+  "delete_semi_responsive_layout_error_does_not_exists": {
+    "en-US": "The semi-responsive layout does not exist, can't perform the delete action.",
+    "es-ES": ""
+  },
+  "delete_semi_responsive_layout_success": {
+    "en-US": "The layout has been deleted with success",
+    "es-ES": ""
+  },
+  "semi_responsive_addon_warning": {
+    "en-US": "The inserted addon may not work properly in the semi-responsive layout.<br />For more information, see <a href='//www.mauthor.com/doc/en/page/semi-responsive' target='_blank'>documentation.",
+    "es-ES": ""
+  },
+  "semi_responsive_editing_layout_name_label": {
+    "en-US": "Name:",
+    "es-ES": ""
+  },
+  "semi_responsive_editing_layout_threshold_label": {
+    "en-US": "Threshold:",
+    "es-ES": ""
+  },
+  "semi_responsive_editing_layout_css_name_label": {
+    "en-US": "Css Style:",
+    "es-ES": ""
+  },
+  "semi_responsive_editing_layout_save_changes_action": {
+    "en-US": "Save Changes",
+    "es-ES": ""
+  },
+  "semi_responsive_layout_error_name_empty": {
+    "en-US": "The semi-responsive layout name can't be an empty string.",
+    "es-ES": ""
+  },
+  "semi_responsive_layout_error_threshold_is_not_disjoint": {
+    "en-US": "All semi-responsive thresholds must have unique values.",
+    "es-ES": ""
+  },
+  "load": {
+    "en-US": "Load",
+    "es-ES": ""
+  },
+  "confirm_no": {
+    "en-US": "no",
+    "es-ES": ""
+  },
+  "editable": {
+    "en-US": "Editable",
+    "es-ES": ""
+  },
+  "filled": {
+    "en-US": "Filled",
+    "es-ES": ""
+  },
+  "dropdown": {
+    "en-US": "Dropdown",
+    "es-ES": ""
+  },
+  "add_gap": {
+    "en-US": "Add gap: ",
+    "es-ES": ""
+  },
+  "add_gap_answers": {
+    "en-US": "Answers: ",
+    "es-ES": ""
+  },
+  "gap_correct": {
+    "en-US": "Correct",
+    "es-ES": ""
+  },
+  "gap_answer": {
+    "en-US": "Answer",
+    "es-ES": ""
+  },
+  "add_editable_gap": {
+    "en-US": "Add an editable/draggable gap",
+    "es-ES": ""
+  },
+  "add_dropdown_gap": {
+    "en-US": "Add a dropdown gap",
+    "es-ES": ""
+  },
+  "add_filled_gap": {
+    "en-US": "Add a filled gap",
+    "es-ES": ""
+  },
+  "initial_text_filled_gap": {
+    "en-US": "Initial text: ",
+    "es-ES": ""
+  },
+  "answer_filled_gap": {
+    "en-US": "Answer: ",
+    "es-ES": ""
+  },
+  "documentation": {
+    "en-US": "Documentation",
+    "es-ES": ""
+  },
+  "documentation_error": {
+    "en-US": "Cannot load documentation.",
+    "es-ES": ""
+  },
+  "documention_loading": {
+    "en-US": "Loading. Please wait.",
+    "es-ES": ""
+  },
+  "documentation_notification": {
+    "en-US": "New feature! Documentation is now available in editor.<br> All you need to do is click on \"?\" button in properties panel.",
+    "es-ES": ""
+  },
+  "notification_plainCloseButton": {
+    "en-US": "Close",
+    "es-ES": ""
+  },
+  "notification_notShowButton": {
+    "en-US": "Do not show this again",
+    "es-ES": ""
+  },
+  "main_tab": {
+    "en-US": "Main",
+    "es-ES": ""
+  },
+  "commons_tab": {
+    "en-US": "Commons",
+    "es-ES": ""
+  },
+  "save_changes": {
+    "en-US": "You have made changes, do you want to save them?",
+    "es-ES": ""
+  },
+  "module_belongs_to_group": {
+    "en-US": "At least one module belongs to a group",
+    "es-ES": ""
+  },
+  "max_score": {
+    "en-US": "Group's Max Score",
+    "es-ES": ""
+  },
+  "group_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "defaultScore": {
+    "en-US": "Default",
+    "es-ES": ""
+  },
+  "zeroMaxScore": {
+    "en-US": "Zero or Max",
+    "es-ES": ""
+  },
+  "graduallyToMaxScore": {
+    "en-US": "Gradually to Max",
+    "es-ES": ""
+  },
+  "minusErrors": {
+    "en-US": "Minus Errors",
+    "es-ES": ""
+  },
+  "Group": {
+    "en-US": "Group",
+    "es-ES": ""
+  },
+  "settings": {
+    "en-US": "Settings",
+    "es-ES": ""
+  },
+  "edit_css": {
+    "en-US": "Edit CSS",
+    "es-ES": ""
+  },
+  "edit_css_tip": {
+    "en-US": "Tip: Ctrl-F: Find, Ctrl-G: Find next",
+    "es-ES": ""
+  },
+  "public_templates": {
+    "en-US": "Public",
+    "es-ES": ""
+  },
+  "private_templates": {
+    "en-US": "Private",
+    "es-ES": ""
+  },
+  "url": {
+    "en-US": "URL",
+    "es-ES": ""
+  },
+  "audio": {
+    "en-US": "Audio",
+    "es-ES": ""
+  },
+  "ok": {
+    "en-US": "OK",
+    "es-ES": ""
+  },
+  "lang": {
+    "en-US": "Language attribute: ",
+    "es-ES": ""
+  },
+  "media_menu": {
+    "en-US": "Media",
+    "es-ES": ""
+  },
+  "open_popup_button_menu": {
+    "en-US": "Open Popup Button",
+    "es-ES": ""
+  },
+  "close_popup_button_menu": {
+    "en-US": "Close Popup Button",
+    "es-ES": ""
+  },
+  "is_visible": {
+    "en-US": "Is Visible",
+    "es-ES": ""
+  },
+  "is_tabindex_enabled": {
+    "en-US": "Enable tabindex",
+    "es-ES": ""
+  },
+  "layout": {
+    "en-US": "Layout",
+    "es-ES": ""
+  },
+  "top": {
+    "en-US": "Top",
+    "es-ES": ""
+  },
+  "bottom": {
+    "en-US": "Bottom",
+    "es-ES": ""
+  },
+  "left": {
+    "en-US": "Left",
+    "es-ES": ""
+  },
+  "right": {
+    "en-US": "Right",
+    "es-ES": ""
+  },
+  "width": {
+    "en-US": "Width",
+    "es-ES": ""
+  },
+  "height": {
+    "en-US": "Height",
+    "es-ES": ""
+  },
+  "is_reportable": {
+    "en-US": "Is&nbsp;reportable",
+    "es-ES": ""
+  },
+  "event_editor": {
+    "en-US": "Event Editor",
+    "es-ES": ""
+  },
+  "html_editor": {
+    "en-US": "HTML Editor",
+    "es-ES": ""
+  },
+  "string_list_editor": {
+    "en-US": "String List Editor",
+    "es-ES": ""
+  },
+  "none": {
+    "en-US": "None",
+    "es-ES": ""
+  },
+  "change": {
+    "en-US": "Change",
+    "es-ES": ""
+  },
+  "items_editor": {
+    "en-US": "Items Editor",
+    "es-ES": ""
+  },
+  "item_count": {
+    "en-US": "Item count:",
+    "es-ES": ""
+  },
+  "number_of_items": {
+    "en-US": "Number of items:",
+    "es-ES": ""
+  },
+  "title": {
+    "en-US": "Title",
+    "es-ES": ""
+  },
+  "page": {
+    "en-US": "Page",
+    "es-ES": ""
+  },
+  "page_index": {
+    "en-US": "Page Index",
+    "es-ES": ""
+  },
+  "on_click": {
+    "en-US": "onClick",
+    "es-ES": ""
+  },
+  "additional_classes": {
+    "en-US": "Additional classes",
+    "es-ES": ""
+  },
+  "popup_left_position": {
+    "en-US": "Popup left position",
+    "es-ES": ""
+  },
+  "popup_top_position": {
+    "en-US": "Popup top position",
+    "es-ES": ""
+  },
+  "text_parse_error": {
+    "en-US": "Incorrect gap's syntax",
+    "es-ES": ""
+  },
+  "text_insert": {
+    "en-US": "Inserted",
+    "es-ES": ""
+  },
+  "text_removed": {
+    "en-US": "Removed",
+    "es-ES": ""
+  },
+  "button_module": {
+    "en-US": "Button",
+    "es-ES": ""
+  },
+  "standard_button": {
+    "en-US": "Standard",
+    "es-ES": ""
+  },
+  "next_page_button": {
+    "en-US": "Next Page",
+    "es-ES": ""
+  },
+  "previous_page_button": {
+    "en-US": "Previous Page",
+    "es-ES": ""
+  },
+  "check_answers_button": {
+    "en-US": "Check Answers",
+    "es-ES": ""
+  },
+  "reset_button": {
+    "en-US": "Reset",
+    "es-ES": ""
+  },
+  "reset_button_reset": {
+    "en-US": "Page has been reset",
+    "es-ES": ""
+  },
+  "send_results_button": {
+    "en-US": "Send Results",
+    "es-ES": ""
+  },
+  "open_popup_button": {
+    "en-US": "Open Popup",
+    "es-ES": ""
+  },
+  "close_popup_button": {
+    "en-US": "Close popup",
+    "es-ES": ""
+  },
+  "go_to_page_button": {
+    "en-US": "Go To Page",
+    "es-ES": ""
+  },
+  "check_counter_module": {
+    "en-US": "Check Counter",
+    "es-ES": ""
+  },
+  "choice_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "choice_item_selected": {
+    "en-US": "Selected",
+    "es-ES": ""
+  },
+  "choice_item_deselected": {
+    "en-US": "Deselected",
+    "es-ES": ""
+  },
+  "choice_item_replaced_with": {
+    "en-US": "Replaced with",
+    "es-ES": ""
+  },
+  "choice_item_correct": {
+    "en-US": "Correct",
+    "es-ES": ""
+  },
+  "choice_item_wrong": {
+    "en-US": "Wrong",
+    "es-ES": ""
+  },
+  "choice_item_number": {
+    "en-US": "Number",
+    "es-ES": ""
+  },
+  "choice_item_gap": {
+    "en-US": "Gap",
+    "es-ES": ""
+  },
+  "choice_item_dropdown": {
+    "en-US": "Dropdown",
+    "es-ES": ""
+  },
+  "choice_item_empty": {
+    "en-US": "Empty",
+    "es-ES": ""
+  },
+  "choice_item_incorrect": {
+    "en-US": "Incorrect",
+    "es-ES": ""
+  },
+  "choice_item_results_for": {
+    "en-US": "Results for",
+    "es-ES": ""
+  },
+  "choice_item_percentage_result": {
+    "en-US": "Percentage result",
+    "es-ES": ""
+  },
+  "choice_item_number_of_checks": {
+    "en-US": "Number of checks",
+    "es-ES": ""
+  },
+  "choice_item_number_of_errors": {
+    "en-US": "Number of errors and mistakes",
+    "es-ES": ""
+  },
+  "choice_speech_texts": {
+    "en-US": "Speech texts",
+    "es-ES": ""
+  },
+  "image_source_alt_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "image_source_selected": {
+    "en-US": "Selected",
+    "es-ES": ""
+  },
+  "image_source_deselected": {
+    "en-US": "Deselected",
+    "es-ES": ""
+  },
+  "ordering_item_starting_position": {
+    "en-US": "Starting position",
+    "es-ES": ""
+  },
+  "Page_progress_property_works_with": {
+    "en-US": "Works with",
+    "es-ES": ""
+  },
+  "report_total": {
+    "en-US": "Total:",
+    "es-ES": ""
+  },
+  "report_out_of": {
+    "en-US": "out of",
+    "es-ES": ""
+  },
+  "source_list_vertical": {
+    "en-US": "Vertical",
+    "es-ES": ""
+  },
+  "text_module_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "schemeless_url_warning": {
+    "en-US": "Resource available via HTTPS and HTTP should be provided with schemeless URL.<br />For more information see <a href='//www.mauthor.com/doc/en/page/Online-resources' target='_blank'>documentation.</a>",
+    "es-ES": ""
+  },
+  "Advanced_Connector_property_scripts": {
+    "en-US": "Scripts",
+    "es-ES": ""
+  },
+  "Audio_name": {
+    "en-US": "Audio",
+    "es-ES": ""
+  },
+  "Audio_property_force_load_audio": {
+    "en-US": "Force load audio",
+    "es-ES": ""
+  },
+  "TextAudio_property_mp3": {
+    "en-US": "mp3",
+    "es-ES": ""
+  },
+  "TextAudio_property_ogg": {
+    "en-US": "ogg",
+    "es-ES": ""
+  },
+  "Connection_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "Connector_property_script": {
+    "en-US": "Script",
+    "es-ES": ""
+  },
+  "Count_and_Graph_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "feedback_property_responses": {
+    "en-US": "Responses",
+    "es-ES": ""
+  },
+  "feedback_property_unique_response_id": {
+    "en-US": "Unique response ID",
+    "es-ES": ""
+  },
+  "feedback_property_status": {
+    "en-US": "Status",
+    "es-ES": ""
+  },
+  "feedback_property_text": {
+    "en-US": "Text",
+    "es-ES": ""
+  },
+  "feedback_property_default_response": {
+    "en-US": "Default response",
+    "es-ES": ""
+  },
+  "feedback_property_preview_response_id": {
+    "en-US": "Preview response ID",
+    "es-ES": ""
+  },
+  "feedback_property_reset_response_on_page_change": {
+    "en-US": "Reset response on page chang",
+    "es-ES": ""
+  },
+  "feedback_property_fade_transitions": {
+    "en-US": "Fade transitions",
+    "es-ES": ""
+  },
+  "feedback_property_center_horizontally": {
+    "en-US": "Center horizontally",
+    "es-ES": ""
+  },
+  "feedback_property_center_vertically": {
+    "en-US": "Center vertically",
+    "es-ES": ""
+  },
+  "feedback_property_is_not_an_activity": {
+    "en-US": "Is not an activity",
+    "es-ES": ""
+  },
+  "feedback_property_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "feedback_property_speech_texts": {
+    "en-US": "Speech Texts",
+    "es-ES": ""
+  },
+  "feedback_property_positive": {
+    "en-US": "Correct answer",
+    "es-ES": ""
+  },
+  "feedback_property_negative": {
+    "en-US": "Incorrect answer",
+    "es-ES": ""
+  },
+  "feedback_property_no_feedback": {
+    "en-US": "No feedback message",
+    "es-ES": ""
+  },
+  "graph_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "Image_Identification_property_is_disabled": {
+    "en-US": "Is Disabled",
+    "es-ES": ""
+  },
+  "Image_Identification_property_alt_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "Image_Identification_property_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "Image_Identification_property_speech_texts": {
+    "en-US": "Speech texts",
+    "es-ES": ""
+  },
+  "Image_Identification_selected": {
+    "en-US": "Selected",
+    "es-ES": ""
+  },
+  "Image_Identification_deselected": {
+    "en-US": "Deselected",
+    "es-ES": ""
+  },
+  "Image_Identification_correct": {
+    "en-US": "Correct",
+    "es-ES": ""
+  },
+  "Image_Identification_wrong": {
+    "en-US": "Wrong",
+    "es-ES": ""
+  },
+  "Math_property_variables": {
+    "en-US": "Variables",
+    "es-ES": ""
+  },
+  "gamememo_property_time_to_solve": {
+    "en-US": "Time to solve the task",
+    "es-ES": ""
+  },
+  "gamememo_property_session_ended_message": {
+    "en-US": "Session ended message",
+    "es-ES": ""
+  },
+  "gamememo_property_click_to_turn_over_incorrect_pair": {
+    "en-US": "Click to turn over incorrect pair",
+    "es-ES": ""
+  },
+  "MultiAudio_name": {
+    "en-US": "MultiAudio",
+    "es-ES": ""
+  },
+  "MultiAudio_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "MultiAudio_property_mp3": {
+    "en-US": "MP3",
+    "es-ES": ""
+  },
+  "MultiAudio_property_ogg": {
+    "en-US": "OGG",
+    "es-ES": ""
+  },
+  "multiplegap_property_wrap_items": {
+    "en-US": "Wrap Items",
+    "es-ES": ""
+  },
+  "multiplegap_property_alt_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "multiplegap_property_inserted": {
+    "en-US": "Inserted",
+    "es-ES": ""
+  },
+  "multiplegap_property_removed": {
+    "en-US": "Removed",
+    "es-ES": ""
+  },
+  "multiplegap_property_empty": {
+    "en-US": "Empty",
+    "es-ES": ""
+  },
+  "multiplegap_property_correct": {
+    "en-US": "Correct",
+    "es-ES": ""
+  },
+  "multiplegap_property_wrong": {
+    "en-US": "Wrong",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_go_to_page_number": {
+    "en-US": "Go to page number",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_go_to_next_page": {
+    "en-US": "Go to next page",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_go_to_prev_page": {
+    "en-US": "Go to previous page",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_titled": {
+    "en-US": "Titled",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_show_more": {
+    "en-US": "Show more pages",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_show_prev": {
+    "en-US": "Show earlier pages",
+    "es-ES": ""
+  },
+  "Navigation_Bar_property_play_title": {
+    "en-US": "Read page title",
+    "es-ES": ""
+  },
+  "Page_Counter_property_page": {
+    "en-US": "Page",
+    "es-ES": ""
+  },
+  "Page_Counter_property_out_of": {
+    "en-US": "Out of",
+    "es-ES": ""
+  },
+  "Plot_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "Plot_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "Plot_property_variables": {
+    "en-US": "Variables",
+    "es-ES": ""
+  },
+  "Plot_property_variable": {
+    "en-US": "Variable",
+    "es-ES": ""
+  },
+  "Single_State_Button_property_image": {
+    "en-US": "Image",
+    "es-ES": ""
+  },
+  "External_Link_Button_property_uri": {
+    "en-US": "URL",
+    "es-ES": ""
+  },
+  "Slider_name": {
+    "en-US": "Slider",
+    "es-ES": ""
+  },
+  "Slideshow_property_audio": {
+    "en-US": "Audio",
+    "es-ES": ""
+  },
+  "Slideshow_property_mp3": {
+    "en-US": "MP3",
+    "es-ES": ""
+  },
+  "Slideshow_property_ogg": {
+    "en-US": "OGG",
+    "es-ES": ""
+  },
+  "text_identification_property_send_event_on_command": {
+    "en-US": "Send event on select/deselect",
+    "es-ES": ""
+  },
+  "TrueFalse_property_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "TrueFalse_property_speech_texts": {
+    "en-US": "Speech texts",
+    "es-ES": ""
+  },
+  "TrueFalse_property_deselected": {
+    "en-US": "Deselected",
+    "es-ES": ""
+  },
+  "TrueFalse_property_selected": {
+    "en-US": "Selected",
+    "es-ES": ""
+  },
+  "TrueFalse_property_correct": {
+    "en-US": "Correct",
+    "es-ES": ""
+  },
+  "TrueFalse_property_incorrect": {
+    "en-US": "Incorrect",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_info": {
+    "en-US": "Console for pseudo code",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_name": {
+    "en-US": "Pseudocode Console",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_functions_list": {
+    "en-US": "Functions list",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_functions_name": {
+    "en-US": "Name",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_functions_body": {
+    "en-US": "Body",
+    "es-ES": ""
+  },
+  "PseudoCode_Code_property_default_aliases": {
+    "en-US": "Default aliases",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_is_not_activity": {
+    "en-US": "Is not avtivity",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_run_user_code": {
+    "en-US": "Run user code",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_run_parameters": {
+    "en-US": "Run parameters",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_parameters_value": {
+    "en-US": "Value",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_answer_max_timeout": {
+    "en-US": "Max time for answer",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_answer_code": {
+    "en-US": "Answer code",
+    "es-ES": ""
+  },
+  "PseudoCode_Code_property_exception_translations_list": {
+    "en-US": "Exceptions translation",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_math_round": {
+    "en-US": "Math precision",
+    "es-ES": ""
+  },
+  "PseudoCode_Console_property_console_available_input": {
+    "en-US": "Available console input",
+    "es-ES": ""
+  },
+  "Blockly_translation_RGB_color": {
+    "en-US": "RGB color",
+    "es-ES": ""
+  },
+  "Blockly_translation_append_text": {
+    "en-US": "append text",
+    "es-ES": ""
+  },
+  "Blockly_translation_arithmetic": {
+    "en-US": "arithmetic",
+    "es-ES": ""
+  },
+  "Blockly_translation_basic_functions": {
+    "en-US": "basic functions",
+    "es-ES": ""
+  },
+  "Blockly_translation_blend_color": {
+    "en-US": "blend color",
+    "es-ES": ""
+  },
+  "Blockly_translation_boolean": {
+    "en-US": "boolean",
+    "es-ES": ""
+  },
+  "Blockly_translation_break": {
+    "en-US": "break",
+    "es-ES": ""
+  },
+  "Blockly_translation_change_variable": {
+    "en-US": "change variable",
+    "es-ES": ""
+  },
+  "Blockly_translation_variables_editor": {
+    "en-US": "variables editor",
+    "es-ES": ""
+  },
+  "Blockly_translation_char_at": {
+    "en-US": "char at",
+    "es-ES": ""
+  },
+  "Blockly_translation_color_picker": {
+    "en-US": "color picker",
+    "es-ES": ""
+  },
+  "Blockly_translation_compare": {
+    "en-US": "compare",
+    "es-ES": ""
+  },
+  "Blockly_translation_constants": {
+    "en-US": "constants",
+    "es-ES": ""
+  },
+  "Blockly_translation_constrain": {
+    "en-US": "constrain",
+    "es-ES": ""
+  },
+  "Blockly_translation_create_list_from": {
+    "en-US": "create list from",
+    "es-ES": ""
+  },
+  "Blockly_translation_create_list_with_item": {
+    "en-US": "create list with item",
+    "es-ES": ""
+  },
+  "Blockly_translation_create_list": {
+    "en-US": "create list",
+    "es-ES": ""
+  },
+  "Blockly_translation_for_each": {
+    "en-US": "for each",
+    "es-ES": ""
+  },
+  "Blockly_translation_for": {
+    "en-US": "for",
+    "es-ES": ""
+  },
+  "Blockly_translation_get_list_element": {
+    "en-US": "get list element",
+    "es-ES": ""
+  },
+  "Blockly_translation_get_sublist": {
+    "en-US": "get sublist",
+    "es-ES": ""
+  },
+  "Blockly_translation_get_variable": {
+    "en-US": "get variable",
+    "es-ES": ""
+  },
+  "Blockly_translation_if": {
+    "en-US": "if",
+    "es-ES": ""
+  },
+  "Blockly_translation_is_empty_list": {
+    "en-US": "is empty list",
+    "es-ES": ""
+  },
+  "Blockly_translation_is_empty_text": {
+    "en-US": "is empty text",
+    "es-ES": ""
+  },
+  "Blockly_translation_join_text": {
+    "en-US": "join text",
+    "es-ES": ""
+  },
+  "Blockly_translation_list_index_of": {
+    "en-US": "list index of",
+    "es-ES": ""
+  },
+  "Blockly_translation_list_length": {
+    "en-US": "list length",
+    "es-ES": ""
+  },
+  "Blockly_translation_logic_operation": {
+    "en-US": "logic operation",
+    "es-ES": ""
+  },
+  "Blockly_translation_logic_ternary": {
+    "en-US": "logic ternary",
+    "es-ES": ""
+  },
+  "Blockly_translation_math_list_functions": {
+    "en-US": "math list functions",
+    "es-ES": ""
+  },
+  "Blockly_translation_modulo": {
+    "en-US": "modulo",
+    "es-ES": ""
+  },
+  "Blockly_translation_negate": {
+    "en-US": "negate",
+    "es-ES": ""
+  },
+  "Blockly_translation_null": {
+    "en-US": "null",
+    "es-ES": ""
+  },
+  "Blockly_translation_number_property": {
+    "en-US": "number property",
+    "es-ES": ""
+  },
+  "Blockly_translation_number": {
+    "en-US": "number",
+    "es-ES": ""
+  },
+  "Blockly_translation_print": {
+    "en-US": "print",
+    "es-ES": ""
+  },
+  "Blockly_translation_prompt_for": {
+    "en-US": "prompt for",
+    "es-ES": ""
+  },
+  "Blockly_translation_random_color": {
+    "en-US": "random color",
+    "es-ES": ""
+  },
+  "Blockly_translation_random_fraction": {
+    "en-US": "random fraction",
+    "es-ES": ""
+  },
+  "Blockly_translation_random_integer": {
+    "en-US": "random integer",
+    "es-ES": ""
+  },
+  "Blockly_translation_repeat_while/until": {
+    "en-US": "repeat while/until",
+    "es-ES": ""
+  },
+  "Blockly_translation_repeat": {
+    "en-US": "repeat",
+    "es-ES": ""
+  },
+  "Blockly_translation_round": {
+    "en-US": "round",
+    "es-ES": ""
+  },
+  "Blockly_translation_set_list_element": {
+    "en-US": "set list element",
+    "es-ES": ""
+  },
+  "Blockly_translation_set_variable": {
+    "en-US": "set variable",
+    "es-ES": ""
+  },
+  "Blockly_translation_sort_list": {
+    "en-US": "sort list",
+    "es-ES": ""
+  },
+  "Blockly_translation_substring": {
+    "en-US": "substring",
+    "es-ES": ""
+  },
+  "Blockly_translation_text_index_of": {
+    "en-US": "text index of",
+    "es-ES": ""
+  },
+  "Blockly_translation_text_length": {
+    "en-US": "text length",
+    "es-ES": ""
+  },
+  "Blockly_translation_text": {
+    "en-US": "text",
+    "es-ES": ""
+  },
+  "Blockly_translation_to_upper/lower_case": {
+    "en-US": "to upper/lower case",
+    "es-ES": ""
+  },
+  "Blockly_translation_trigonometry": {
+    "en-US": "trigonometry",
+    "es-ES": ""
+  },
+  "Blockly_translation_trim": {
+    "en-US": "trim",
+    "es-ES": ""
+  },
+  "BlocklyCodeEditor_property_custom_block_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "BlocklyCodeEditor_property_initial_configuration": {
+    "en-US": "Initial configuration",
+    "es-ES": ""
+  },
+  "video_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "video_property_show_play_button": {
+    "en-US": "Show play button",
+    "es-ES": ""
+  },
+  "video_property_time_labels": {
+    "en-US": "Time labels",
+    "es-ES": ""
+  },
+  "Vimeo_name": {
+    "en-US": "Vimeo",
+    "es-ES": ""
+  },
+  "YouTube_Addon_name": {
+    "en-US": "YouTube",
+    "es-ES": ""
+  },
+  "YouTube_Addon_property_https": {
+    "en-US": "HTTPS",
+    "es-ES": ""
+  },
+  "YouTube_Addon_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "YouTube_Addon_property_url": {
+    "en-US": "URL",
+    "es-ES": ""
+  },
+  "Text_Coloring_info": {
+    "en-US": "Allows to underline with diffrent colors specific parts of text.",
+    "es-ES": ""
+  },
+  "Text_Coloring_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "Text_Selection_property_enable_scroll": {
+    "en-US": "Enable scroll on mobile devices",
+    "es-ES": ""
+  },
+  "Shape_Tracing_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "Shape_Tracing_property_pen_thickness": {
+    "en-US": "Thickness",
+    "es-ES": ""
+  },
+  "Shape_Tracing_property_opacity": {
+    "en-US": "Opacity",
+    "es-ES": ""
+  },
+  "Shape_Tracing_property_border": {
+    "en-US": "Border",
+    "es-ES": ""
+  },
+  "Shape_Tracing_property_correct_answer_image": {
+    "en-US": "Correct Answer Image",
+    "es-ES": ""
+  },
+  "Fractions_property_square_parts": {
+    "en-US": "Square parts",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_alternative_page_titles": {
+    "en-US": "Alternative page titles",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_alternative_page_number": {
+    "en-US": "Index",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_show_is_alternative_page_chapter": {
+    "en-US": "Is chapter",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_alternative_page_name": {
+    "en-US": "Alternative content",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_speech_texts": {
+    "en-US": "Speech texts",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_expanded_speech_text": {
+    "en-US": "Expanded",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_collapsed_speech_text": {
+    "en-US": "Collapsed",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_results_speech_text": {
+    "en-US": "Percentage result",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_checks_speech_text": {
+    "en-US": "Number of checks",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_mistakes_speech_text": {
+    "en-US": "Number of mistakes",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_errors_speech_text": {
+    "en-US": "Number of errors",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_score_speech_text": {
+    "en-US": "Score",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_out_of_speech_text": {
+    "en-US": "Out of",
+    "es-ES": ""
+  },
+  "Hierarchical_Lesson_Report_property_total_speech_text": {
+    "en-US": "Total",
+    "es-ES": ""
+  },
+  "EdgeAnimation_property_edge_file": {
+    "en-US": "edge.js",
+    "es-ES": ""
+  },
+  "Timer_info": {
+    "en-US": "Addon Timer allows users to add timer to a presentation. It works in two modes: Timer (it counts time from the defined value to 0) and Stopwatch (it counts time up from 0).",
+    "es-ES": ""
+  },
+  "Timer_name": {
+    "en-US": "Timer",
+    "es-ES": ""
+  },
+  "Timer_property_mode": {
+    "en-US": "Mode",
+    "es-ES": ""
+  },
+  "Timer_property_time": {
+    "en-US": "Time",
+    "es-ES": ""
+  },
+  "Timer_property_immediate_start": {
+    "en-US": "Immediate start",
+    "es-ES": ""
+  },
+  "Timer_property_send_event_every_second": {
+    "en-US": "Send event every second",
+    "es-ES": ""
+  },
+  "Timer_property_show_hours": {
+    "en-US": "Show hours",
+    "es-ES": ""
+  },
+  "Timer_property_enable_reset": {
+    "en-US": "Enable reset",
+    "es-ES": ""
+  },
+  "Zoom_Image_property_alternative_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "Zoom_image_property_closed": {
+    "en-US": "Closed",
+    "es-ES": ""
+  },
+  "Zoom_image_property_speech_texts": {
+    "en-US": "Speech texts",
+    "es-ES": ""
+  },
+  "Zoom_image_property_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "Sudoku_name": {
+    "en-US": "Sudoku",
+    "es-ES": ""
+  },
+  "Show_Answers_property_enable_mistake_counter": {
+    "en-US": "Increment mistake counter",
+    "es-ES": ""
+  },
+  "PieChart_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "Lesson_Progress_info": {
+    "en-US": "",
+    "es-ES": ""
+  },
+  "IWB_Toolbar_property_closed_panel_drawing": {
+    "en-US": "Closed panel drawing",
+    "es-ES": ""
+  },
+  "LearnPen_property_sensor": {
+    "en-US": "Sensor",
+    "es-ES": ""
+  },
+  "LearnPen_Report_property_sensor": {
+    "en-US": "Sensor",
+    "es-ES": ""
+  },
+  "SelectableAddonsBinder_property_addons": {
+    "en-US": "Addons",
+    "es-ES": ""
+  },
+  "Board_game_property_css_class": {
+    "en-US": "CSS class",
+    "es-ES": ""
+  },
+  "Board_game_property_game_mode": {
+    "en-US": "Game mode",
+    "es-ES": ""
+  },
+  "Dice_name": {
+    "en-US": "Dice",
+    "es-ES": ""
+  },
+  "Dice_info": {
+    "en-US": "Allows to roll random value.",
+    "es-ES": ""
+  },
+  "Dice_property_elements_list": {
+    "en-US": "Elements list",
+    "es-ES": ""
+  },
+  "Dice_property_name": {
+    "en-US": "Name",
+    "es-ES": ""
+  },
+  "Dice_property_image": {
+    "en-US": "Image",
+    "es-ES": ""
+  },
+  "Dice_property_animation_length": {
+    "en-US": "Animation length",
+    "es-ES": ""
+  },
+  "Dice_property_is_disabled": {
+    "en-US": "Is Disabled",
+    "es-ES": ""
+  },
+  "Dice_property_initial_item": {
+    "en-US": "Initial Item",
+    "es-ES": ""
+  },
+  "Dice_property_works_with": {
+    "en-US": "Works With",
+    "es-ES": ""
+  },
+  "Programmed_Drawing_property_color": {
+    "en-US": "Color",
+    "es-ES": ""
+  },
+  "Variable_Storage_property_variables": {
+    "en-US": "Variables",
+    "es-ES": ""
+  },
+  "Variable_Storage_property_do_not_reset": {
+    "en-US": "Do not reset",
+    "es-ES": ""
+  },
+  "Heading_info": {
+    "en-US": "Allows to insert headings from h1 to h6",
+    "es-ES": ""
+  },
+  "Heading_name": {
+    "en-US": "Heading",
+    "es-ES": ""
+  },
+  "Heading_property_heading": {
+    "en-US": "Heading",
+    "es-ES": ""
+  },
+  "Heading_property_content": {
+    "en-US": "Content",
+    "es-ES": ""
+  },
+  "Heading_property_lang_attribute": {
+    "en-US": "Lang attribute",
+    "es-ES": ""
+  },
+  "Catch_info": {
+    "en-US": "Simple Catch game with 3 levels",
+    "es-ES": ""
+  },
+  "Catch_name": {
+    "en-US": "Catch",
+    "es-ES": ""
+  },
+  "Catch_property_items": {
+    "en-US": "Items",
+    "es-ES": ""
+  },
+  "Catch_property_image": {
+    "en-US": "Image",
+    "es-ES": ""
+  },
+  "Catch_property_description": {
+    "en-US": "Description",
+    "es-ES": ""
+  },
+  "Catch_property_is_correct": {
+    "en-US": "Is Correct",
+    "es-ES": ""
+  },
+  "Catch_property_level": {
+    "en-US": "Level",
+    "es-ES": ""
+  },
+  "Catch_property_points_to_finish": {
+    "en-US": "Points to finish",
+    "es-ES": ""
+  },
+  "Catch_property_count_errors": {
+    "en-US": "Count errors",
+    "es-ES": ""
+  },
+  "Catch_property_item_width": {
+    "en-US": "Item width",
+    "es-ES": ""
+  },
+  "Catch_property_item_height": {
+    "en-US": "Item height",
+    "es-ES": ""
+  },
+  "Iframe_name": {
+    "en-US": "Iframe",
+    "es-ES": ""
+  },
+  "IFrame_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "IFrame_property_allow_fullscreen": {
+    "en-US": "Allow Fullscreen",
+    "es-ES": ""
+  },
+  "Text_To_Speech_name": {
+    "en-US": "Text To Speech",
+    "es-ES": ""
+  },
+  "Text_To_Speech_info": {
+    "en-US": "This addon allows to transform text to speech",
+    "es-ES": ""
+  },
+  "Text_To_Speech_configuration": {
+    "en-US": "Configuration",
+    "es-ES": ""
+  },
+  "Text_To_Speech_property_id": {
+    "en-US": "ID",
+    "es-ES": ""
+  },
+  "Text_To_Speech_area": {
+    "en-US": "Area",
+    "es-ES": ""
+  },
+  "Text_To_Speech_property_title": {
+    "en-US": "Title",
+    "es-ES": ""
+  },
+  "Text_To_Speech_property_description": {
+    "en-US": "Description",
+    "es-ES": ""
+  },
+  "Text_To_Speech_property_new_page": {
+    "en-US": "New page",
+    "es-ES": ""
+  },
+  "Text_To_Speech_property_page_lang_tag": {
+    "en-US": "Page title language",
+    "es-ES": ""
+  },
+  "Text_To_Speech_language": {
+    "en-US": "Language",
+    "es-ES": ""
+  },
+  "IFrame_property_alt_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "Shooting_Range_info": {
+    "en-US": "This addon allows users to click falling down values in defined time.",
+    "es-ES": ""
+  },
+  "Shooting_Range_name": {
+    "en-US": "Shooting Range",
+    "es-ES": ""
+  },
+  "Shooting_Range_property_definitions": {
+    "en-US": "Definitions",
+    "es-ES": ""
+  },
+  "Shooting_Range_property_definition": {
+    "en-US": "Definition",
+    "es-ES": ""
+  },
+  "Shooting_Range_property_answer": {
+    "en-US": "Answer",
+    "es-ES": ""
+  },
+  "Shooting_Range_property_correct_answer": {
+    "en-US": "",
+    "es-ES": ""
+  },
+  "Shooting_Range_property_initial_time_for_answer": {
+    "en-US": "Initial time for answer",
+    "es-ES": ""
+  },
+  "Shooting_Range_property_time_for_last_answer": {
+    "en-US": "Time for last answer",
+    "es-ES": ""
+  },
+  "Quiz_name": {
+    "en-US": "Quiz",
+    "es-ES": ""
+  },
+  "Quiz_info": {
+    "en-US": "Sequence of questions with tips",
+    "es-ES": ""
+  },
+  "Quiz_property_Questions": {
+    "en-US": "Questions",
+    "es-ES": ""
+  },
+  "Quiz_property_Question": {
+    "en-US": "Question",
+    "es-ES": ""
+  },
+  "Quiz_property_CorrectAnswer": {
+    "en-US": "Correct answer",
+    "es-ES": ""
+  },
+  "Quiz_property_WrongAnswer1": {
+    "en-US": "First wrong answer",
+    "es-ES": ""
+  },
+  "Quiz_property_WrongAnswer2": {
+    "en-US": "Second wrong answer",
+    "es-ES": ""
+  },
+  "Quiz_property_WrongAnswer3": {
+    "en-US": "Third wrong answer",
+    "es-ES": ""
+  },
+  "Quiz_property_hint": {
+    "en-US": "Hint",
+    "es-ES": ""
+  },
+  "Quiz_property_ShowHelpButtons": {
+    "en-US": "Show help buttons",
+    "es-ES": ""
+  },
+  "Quiz_property_NextLabel": {
+    "en-US": "Next label",
+    "es-ES": ""
+  },
+  "Quiz_property_GameLostMessage": {
+    "en-US": "Game lost message",
+    "es-ES": ""
+  },
+  "Quiz_property_GameWonMessage": {
+    "en-US": "Game won message",
+    "es-ES": ""
+  },
+  "Quiz_property_center_vertically": {
+    "en-US": "Center vertically",
+    "es-ES": ""
+  },
+  "Quiz_property_isActivity": {
+    "en-US": "Is activity",
+    "es-ES": ""
+  },
+  "Text_use_escape_character_in_gap_property": {
+    "en-US": "Use escape character in gap",
+    "es-ES": ""
+  },
+  "date": {
+    "en-US": "Date",
+    "es-ES": ""
+  },
+  "sort_by": {
+    "en-US": "Sort by:",
+    "es-ES": ""
+  },
+  "prev_property_go_to_last_visited_page": {
+    "en-US": "Redirect to last visited page",
+    "es-ES": ""
+  },
+  "image_property_alternative_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "video_property_alternative_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "Header_none": {
+    "en-US": "None",
+    "es-ES": ""
+  },
+  "Header_default": {
+    "en-US": "Default",
+    "es-ES": ""
+  },
+  "Header": {
+    "en-US": "Header",
+    "es-ES": ""
+  },
+  "Footer": {
+    "en-US": "Footer",
+    "es-ES": ""
+  },
+  "Footer_none": {
+    "en-US": "None",
+    "es-ES": ""
+  },
+  "Footer_default": {
+    "en-US": "Default",
+    "es-ES": ""
+  },
+  "Cant_add_page_from_template": {
+    "en-US": "One of the pages from the template couldn't be loaded. Importing the template aborted.",
+    "es-ES": ""
+  },
+  "header_footer_notification": {
+    "en-US": "New feature! Now you can define and select a different header or footer <br/> for each lesson page. Having set the additional header/footer pages <br/> in Commons, simply check a relevant option in the Page properties.",
+    "es-ES": ""
+  },
+  "dont_generate_correct_order": {
+    "en-US": "Don't generate correct order",
+    "es-ES": ""
+  },
+  "alternative_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "edit_alternative_text": {
+    "en-US": "Edit alternative text",
+    "es-ES": ""
+  },
+  "check_answers_button_edit_block": {
+    "en-US": "Page edition is blocked",
+    "es-ES": ""
+  },
+  "check_answers_button_no_edit_block": {
+    "en-US": "Page edition is not blocked",
+    "es-ES": ""
+  },
+  "alt_text": {
+    "en-US": "Alternative Text",
+    "es-ES": ""
+  },
+  "visible_text_alt_text": {
+    "en-US": "Visible text",
+    "es-ES": ""
+  },
+  "alt_text_alt_text": {
+    "en-US": "Alternative text",
+    "es-ES": ""
+  },
+  "edit_alt_text": {
+    "en-US": "Edit alternative text",
+    "es-ES": ""
+  },
+  "add_alt_text_label": {
+    "en-US": "Add alternative text:",
+    "es-ES": ""
+  },
+  "add_alt_text_title": {
+    "en-US": "Add alternative text",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_name": {
+    "en-US": "Page Progress Panel",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_info": {
+    "en-US": "Page Progress Panel enables you to insert a ready-made page progress bar",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_show_progress_bar": {
+    "en-US": "Show Progress Bar",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_progress_bar_text": {
+    "en-US": "Progress Bar text",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_show_correct_answer": {
+    "en-US": "Show Correct Answers",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_correct_answers_text": {
+    "en-US": "Correct Answers text",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_show_all_answers": {
+    "en-US": "Show All Answers",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_all_answers_text": {
+    "en-US": "All Answers text",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_show_mistakes": {
+    "en-US": "Show Mistakes",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_mistakes_text": {
+    "en-US": "Mistakes text",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_show_checks": {
+    "en-US": "Show Checks",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_checks_text": {
+    "en-US": "Checks text",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_show_errors": {
+    "en-US": "Show Errors",
+    "es-ES": ""
+  },
+  "Page_Progress_Panel_property_errors_text": {
+    "en-US": "Errors text",
+    "es-ES": ""
+  }
+}
